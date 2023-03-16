@@ -22,10 +22,21 @@ p {
     font-weight: 800;
 }
 
+
+/* Sections */
 .section-heading {
     font-size: 3rem;
     line-height: 1.5rem;
     padding-bottom: 15px;
+}
+
+.colored-section {
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+.white-section {
+    background-color: #fff;
 }
 
 /* NavBar */
@@ -56,8 +67,6 @@ p {
 
 /* Title image */
 #title {
-    background-color: #ff4c68;
-    color: #fff;
     text-align: left;
 }
 
@@ -95,7 +104,6 @@ p {
 /* Testimonials */
 #testimonials {
     background-color: #ef8172;
-    color: #fff;
 }
 
 .testimonial-text {
@@ -139,8 +147,6 @@ p {
 
 /* Call-To-Action (CTA) */
 #cta {
-    background-color: #ff4c68;
-    color: #fff;
     padding: 7% 15%;
 }
 
